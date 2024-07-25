@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone",
+      "price": 1000,
+      "description": "iPhone 13",
+      "imageUrl": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": "2",
+      "name": "iPhone",
+      "price": 1000,
+      "description": "iPhone 13",
+      "imageUrl": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": "3",
+      "name": "iPhone",
+      "price": 1000,
+      "description": "iPhone 13",
+      "imageUrl": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": "4",
+      "name": "iPhone",
+      "price": 1000,
+      "description": "iPhone 13",
+      "imageUrl": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": "5",
+      "name": "iPhone",
+      "price": 1000,
+      "description": "iPhone 13",
+      "imageUrl": "https://picsum.photos/200/300?random=1"
+    }
+  ]
+}
